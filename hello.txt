@@ -1,11 +1,7 @@
 annyeonghasaeyo!
 
-<<<<<<< HEAD
-jeoneun seoyoung e a yo !
-
 hahaha! 
-=======
+
 jeoneun seoyoung e a yo ! 
 
 is good!
->>>>>>> origin
